@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>index</title>
+	<link rel="stylesheet" href="css/style.css">
+	<a href="Glacier.html">Glacier</a>
+	<a href="Palacio.html">Palacio</a>
+</head>
+<body>
+	<h1>A brief Overview</h1>
+	<p>Tourism has allowed individuals all over the world to appreciate nature and develop the passion for art. People dream of visiting several areas and for me, the areas I would love to visit one day are Glacier National Park and The Royal Palace in Madrid.</p>
+	<blockquote>“I can't think of anything that excites a greater sense of childlike wonder than to be in a country where you are ignorant of almost everything.” </blockquote>
+	<figure>
+		<img src="images/backpack.jpg" alt="">
+		<figcaption>An image of a backpack showing the owner is ready to travel</figcaption>
+	</figure>
+	<h2>Why I chose these Areas</h2>
+	<p> I would love to visit Glacier National Park because of the outdoor activities, wildlife, park drives, iconic features, geological sites, and its suitability for camping. The historic and architectual wonder and the majestic nature of The Royal Palace including its limestone statues makes it worth visiting.</p>
+	<h2>Let's get Started</h2>
+	<p>The website provides a brief overview of the areas i would like to visit and also highlights the activities and important features of these places. My love for nature and history has enabled me to appreciate these areas and I hope one day my dream shall come true.</p>
+</body>
+</html>

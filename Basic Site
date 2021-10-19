@@ -1,0 +1,44 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Jeffrey Deliscar - Learning Module 4 assignment</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<a href="#web_hosting">Web Hosting Resources</a>
+	<a href="#domain_name">Domain Name Ideas</a>
+	<a href="#my_resources">My Resources</a>
+	<h1>Jeffrey Deliscar - Learning Module 4 assignment</h1>
+	<section id="web_hosting">
+	<h2>Web Hosting Resources</h2>
+		<ol>
+			<li><a href="https://disndathosting.com/" target="_blank">Disndat Hosting</a>(Price-$4.99/Month | Unlimited Bandwidth | 10GB Storage)</li>
+			<li><a href="https://www.bluehost.com/" target="_blank">Bluehost</a> (Price-$4.95/Month | Unmetered Bandwidth | Unlimited Storage)</li>
+			<li><a href="https://www.hostgator.com/" target="_blank">Hostgator</a> (Price-$2.75/Month | Unmetered Bandwidth | Unmetered Disk Space)</li>
+			<li><a href="https://www.hostinger.com/" target="_blank">Hostinger</a> (Price-$1.35/Month | 100GB Bandwidth | 30GB Storage)</li>
+			<li><a href="https://www.hostwinds.com/" target="_blank">Hostwinds</a> (Price-$6.74/Month | Unlimited Bandwidth| Unlimited Storage)</li>
+		</ol>
+	</section>
+	<section id="domain_name">
+	<h2>Domain name ideas</h2>
+		<p>I've come up with the following domain name ideas for myself and searched <a href="http://www.godaddy.com/">www.GoDaddy.com (Links to an external site.)</a> and these are the top three ideas I have</p>
+		<ol>
+			<li><a href="https://technologysolutions.com/">www.technologysolutions.com</a> (Not Available)</li>
+			<li>www.firststopsolutions.com (Availlable)</li>
+			<li>www.manageservices.org (Available)</li>
+		</ol>
+	</section>
+	<section id="my_resources">
+	<h2>My resources</h2>
+		<ul>
+			<li title="O'Reilly books are here to help you get your job done. In general, you may use the code in O'Reilly books in your programs and documentation. ">https://resources.oreilly.com/</li>
+			<li title="Graphic + Interactive Design AS Degree and Course Information">http://www.valenciagraphicdesign.com/</li>
+			<li title="A blog for valencia graphic design">http://valenciagraphicdesign.com/blog/</li>
+			<li title="With Spotify, it’s easy to find the right music or podcast for every moment – on your phone, your computer, your tablet and more.">https://www.spotify.com/us/</li>
+		</ul>
+	</section>
+</body>
+</html>

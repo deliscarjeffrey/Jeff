@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Jeffrey Deliscar - Learning Module 8 assignment</title>
+</head>
+
+<body>
+
+    <h1>Jeffrey Deliscar - Learning Module 8 assignment</h1>
+    <hr>
+    <h2>Things I've Learned</h2>
+    <ol>
+        <li>
+            <p>How to create websites.</p>
+        </li>
+        <li>
+            <p>How to make multiple pages in HTML.</p>
+        </li>
+        <li>
+            <p>Different types of text editors.</p>
+        </li>
+        <li>
+            <p>How to edit texts using text editors.</p>
+        </li>
+        <li>
+            <p>How to set up the html, head, title, and body tags in the correct way.</p>
+        </li>
+        <li>
+            <p>How to compress/Zip web page files.</p>
+        </li>
+        <li>
+            <p>Identifying errors in html code.</p>
+        </li>
+        <li>
+            <p>Properties of a good website.</p>
+        </li>
+        <li>
+            <p>HTML and CSS validation.</p>
+        </li>
+        <li>
+            <p>Importance of validation.</p>
+        </li>
+    </ol>
+    <hr>
+    <h2>Resources</h2>
+    <ul>
+        <li><a href="https://www.w3schools.com/cssref/pr_dim_line-height.asp" title="CSS line-height Property"
+                target="_blank">line-height Property</a></li>
+        <li><a href="https://www.w3schools.com/html/html_responsive.asp" title="HTML Responsive Web Design"
+                target="_blank">Responsive meta tag</a></li>
+        <li><a href="https://www.w3schools.com/css/css_font.asp" title="The CSS font-family Property"
+                target="_blank">font-family Property</a></li>
+        <li><a href="https://www.dummies.com/web-design-development/html5-and-css3/how-to-use-an-external-style-sheet-for-html5-and-css3-programming/"
+                title="How to Use an External Style Sheet for HTML5 and CSS3 Programming" target="_blank">External Style
+                Sheet</a></li>
+        <li><a href="https://www.w3schools.com/css/css_font_size.asp" title="CSS Font Size" target="_blank">Font
+                Sizes</a></li>
+    </ul>
+</body>
+
+</html>
